@@ -19,3 +19,5 @@ Live demo with no installation: https://minecraft.js.org.
 ![hypixel](https://github.com/michaljaz/webmc/blob/master/.github/hypixel.png "hypixel")
 ![nether](https://github.com/michaljaz/webmc/blob/master/.github/nether.png "nether")
 ![end](https://github.com/michaljaz/webmc/blob/master/.github/end.png "end")
+
+## Test
