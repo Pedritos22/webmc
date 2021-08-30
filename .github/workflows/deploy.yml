@@ -23,9 +23,6 @@ jobs:
         env:
           REACT_APP_GIT_SHA: ${{ github.sha }}
 
-      - name: Test
-        run: yarn test
-
       - name: "Deploy to Skynet"
         uses: SkynetLabs/deploy-to-skynet-action@v2
         with:
